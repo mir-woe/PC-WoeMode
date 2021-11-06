@@ -1,7 +1,7 @@
 {
     "name": "woe mode",
     "description": "A theme which takes use of both dark and light mode to provide two accent types",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "woe#1863",
     "theme": "theme.css",
     "license": "unknown"
