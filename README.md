@@ -4,7 +4,8 @@
 - Maintenance cannot be promised
 
 # install 
-```cd powercord/src/Powercord/themes && git clone https://github.com/mir-woe/PC-WoeMode/tree/main/woe
+```
+cd powercord/src/Powercord/themes && git clone https://github.com/mir-woe/PC-WoeMode/tree/main/woe
 ```
 
 # themes 
