@@ -17,4 +17,4 @@ cd powercord/src/Powercord/themes && git clone https://github.com/mir-woe/PC-Woe
 -pink
 <img src="https://mir-woe.github.io/misc/images/themes/pink.png" alt="theme pink">
 -red
-<img src="https://mir-woe.github.io/misc/images/themes/red.png" alt="theme pink">
+<img src="https://mir-woe.github.io/misc/images/themes/red.png" alt="theme red">
