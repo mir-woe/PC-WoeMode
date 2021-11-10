@@ -19,7 +19,7 @@ cd powercord/src/Powercord/themes && git clone https://github.com/mir-woe/PC-Woe
 ```
 <b> BetterDiscord - MIGHT NOT WORK PROPERLY ON BD. </b>
 ```
-cd AppData\Roaming\BetterDiscord\themes && git clone https://github.com/mir-woe/PC-WoeMode/ && copy PC-WoeMode\theme.css .\woe.theme.css && rmdir /s /Q PC-WoeMode
+cd %userprofile%\AppData\Roaming\BetterDiscord\themes && git clone https://github.com/mir-woe/PC-WoeMode/ && copy PC-WoeMode\theme.css woe.theme.css && rd /s /Q PC-WoeMode
 ```
 
 # preview
