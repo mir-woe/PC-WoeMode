@@ -14,7 +14,7 @@
 ```
 cd AppData\Roaming\BetterDiscord\themes && git clone https://github.com/mir-woe/PC-WoeMode/ && del README.md
 ```
-<b> BetterDiscord </b>
+<b> BetterDiscord - MIGHT NOT WORK PROPERLY ON BD. </b>
 ```
 cd AppData\Roaming\BetterDiscord\themes && git clone https://github.com/mir-woe/PC-WoeMode/ && copy PC-WoeMode\theme.css .\woe.theme.css && rmdir /s /Q PC-WoeMode
 ```
