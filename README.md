@@ -15,9 +15,9 @@
 cd AppData\Roaming\BetterDiscord\themes && git clone https://github.com/mir-woe/PC-WoeMode/ && del README.md
 ```
 <b> BetterDiscord </b>
-- I haven't the slightest clue how BetterDiscord works as a Powercord user, but BetterDiscord doesn't recognise the .css file (and I have no clue why until I spend time to look into it) so this is a work around for now
-1) Open BetterDiscord's `settings` -> `Custom CSS`
-2) Paste contents of <a href="https://raw.githubusercontent.com/mir-woe/PC-WoeMode/theme.css"> this raw file </a>
+```
+cd AppData\Roaming\BetterDiscord\themes && git clone https://github.com/mir-woe/PC-WoeMode/ && copy PC-WoeMode\theme.css .\woe.theme.css && rmdir /s /Q PC-WoeMode
+```
 
 # preview
 - no images currently
