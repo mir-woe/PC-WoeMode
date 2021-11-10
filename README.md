@@ -1,6 +1,6 @@
 # PC-WoeMode
 <b> notice </b>
-- Built for specifically Powercord, but has Powercord and BetterDiscord support
+- Built for specifically Powercord. May not work properly on BetterDiscord
 - Maintenance cannot be promised
 - Will not be posted in #theme-links in either Powercord or BetterDiscord server (may change in due future)
 
