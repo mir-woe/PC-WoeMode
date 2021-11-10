@@ -14,6 +14,9 @@
 cd powercord/src/Powercord/themes && git clone https://github.com/mir-woe/PC-WoeMode/tree/main/woe
 ```
 <b> BetterDiscord </b>
-- Will update once I get an idea
+```
+cd AppData\Roaming\BetterDiscord\themes && git clone https://github.com/mir-woe/PC-WoeMode/blob/main/woe/theme.css  
+```
+
 # preview
 - no images currently
