@@ -9,7 +9,7 @@
 - Light mode = Red accents
 - - same background for both
 
-# install 
+# install - use CMD
 <b> Powercord </b>
 ```
 cd AppData\Roaming\BetterDiscord\themes && git clone https://github.com/mir-woe/PC-WoeMode/ && del README.md
