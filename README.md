@@ -9,7 +9,9 @@
 - Light mode = Red accents
 - - same background for both
 
-# install - use CMD
+# install
+- USE CMD
+- DO NOT USE ADMIN WHEN INSTALLING
 <b> Powercord </b>
 ```
 cd AppData\Roaming\BetterDiscord\themes && git clone https://github.com/mir-woe/PC-WoeMode/ && del README.md
