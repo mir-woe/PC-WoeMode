@@ -1,0 +1,33 @@
+/**
+ * @name WoeMode
+ * @author woe#1863
+ * @version 1.0.1
+ * @description A theme which takes use of both dark and light mode to provide two accent types
+ * @source https://github.com/mir-woe/PC-WoeMode
+ * @website https://mir-woe.github.io/
+ */
+
+@import url("https://mir-woe.github.io/misc/themes/woe-theme.css");
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+
+    /* 
+    light =  red
+    dark = pink/purple 
+    */
+
+    /* https://mir-woe.github.io */
+
+    /*
+    any issues please contact me on:
+    discord [ woe#1863 ]
+    telegram [ https://mir-woe.github.io/misc/tg.html ]
+    or make an issue on the git respo  
+    */
+
+
+/* top-left corner */
+:root{
+    --DiscordName: 'discord'; /* im not very creative */
+    --YourMsg:'WoeMode'; /* do not use any spaces */
+}
