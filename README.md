@@ -1,5 +1,6 @@
 # PC-WoeMode
 <b> notice </b>
+- **CLASS CHANGES DONE BY DISCORD -> NOT ALL ASPECTS MAY BE THEMED. WORKING ON FIXING SLOWLY**
 - Built for specifically Powercord. May not work properly on BetterDiscord
 - Maintenance cannot be promised
 - Will not be posted in #theme-links in either Powercord or BetterDiscord server (may change in due future)
