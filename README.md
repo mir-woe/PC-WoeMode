@@ -2,7 +2,8 @@
 <b> notice </b>
 - Built for specifically Powercord. May not work properly on BetterDiscord
 - Maintenance cannot be promised
-- Will not be posted in #theme-links in either Powercord or BetterDiscord server (may change in due future)
+- Will not be posted in #theme-links in either Powercord or BetterDiscord server because I don't see the point as this was just for fun and there's no telling when I will just *drop* this ugly thing
+- If you are using my other themes that aren't apart of this respository and are facing issues DM me directly
 
 <b> features </b>
 - Dark mode = Pink/Purple accents
@@ -24,3 +25,4 @@ cd %userprofile%\AppData\Roaming\BetterDiscord\themes && git clone https://githu
 
 # preview
 - no images currently
+- try it and find out if you like it 
