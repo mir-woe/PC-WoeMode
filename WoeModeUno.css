@@ -4,13 +4,16 @@
 
 /*entire body font*/
 
+:root{
+    --IkFont: 'Quicksand', sans-serif;
+}
+
 .appMount-2yBXZl,
 body {
     transition: 0.4s;
-    font-family: 'Quicksand', sans-serif;
+    font-family: var(--IkFont);
     color: var(--ikhlas4);
 }
-
 
 /* importantxx */
 
