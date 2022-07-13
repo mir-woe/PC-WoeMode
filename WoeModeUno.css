@@ -1437,7 +1437,7 @@ svg.threadIcon-rd1kqG {
 }
 
 
-/* profiles */
+/* profiles - user popout*/
 .tabBarContainer-sCZC4w {
     border-bottom: none;
     padding: 0px;
@@ -2037,4 +2037,12 @@ div.container-3NTP7o {
 
 .noBackground-32obMC.noShadow-3QKycP {
     background-color: transparent !important;
+}
+
+/* attachments */
+
+/* uploading... */
+.attachment-1PZZB2{
+    border-color:var(--ikhlas2);
+    border-radius: 6px;   
 }
